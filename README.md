@@ -1,5 +1,5 @@
 
-# Color-Invariant Saree Pattern Recognition
+# Color Invariant Saree Pattern Recognition
 
 A computer-vision portfolio project exploring saree pattern classification, embedding-based image retrieval, and pairwise similarity verification using a publicly available Kaggle dataset.
 
